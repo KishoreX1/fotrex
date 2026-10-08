@@ -1,0 +1,8 @@
+{
+  "name": "zeoxis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zeoxis — security scanner for AI-generated code.",
+  "engines": { "node": ">=18" },
+  "dependencies": { "stripe": "^17.4.0" }
+}
